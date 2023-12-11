@@ -40,7 +40,7 @@ Designing, and Developing a database (myAirbnb_Datamart) to make a system of onl
 
    * Alternative way of Step 1 to 4: Download and Install MySQL Installer from [here](https://dev.mysql.com/downloads/installer/). Follow the installation instructions provided and Please choose "Full" setup type during installation. This will download all available MySQL products including MySQL server and MySQL Workbench without additional steps. During the installation, please also set a root password and connect to the MySQL Server using the root credentials at the end of installation.
 
-* Step 5: In your chosen MySQL client tool (MySQL Workbench), open the downloaded "myAirbnb_Datamart.sql" script file and execute it.
+* Step 5: In your chosen MySQL client tool (MySQL Workbench), under MySQL connections, open the downloaded "myAirbnb_Datamart.sql" script file and execute it.
 
 You have now successfully installed and imported the "myAirbnb_Datamart" database!
 
