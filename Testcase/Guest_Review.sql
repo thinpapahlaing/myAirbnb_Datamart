@@ -1,0 +1,3 @@
+SELECT Users.UserID, Users.First_Name, Users.Last_Name, Users.Gender, Guest_Review.Rating, Guest_Review.Comment, Guest_Review.Reviewed_Date, Guest.GuestID
+FROM Users INNER JOIN Guest ON Users.UserID = Guest.UserID INNER JOIN Guest_Review ON Guest.GuestID = Guest_Review.GuestID 
+WHERE Guest_Review.Rating = 4 AND Guest_Review.Reviewed_Date > '2023-10-03 12:00:00' ORDER BY Guest_Review.Reviewed_Date DESC;
