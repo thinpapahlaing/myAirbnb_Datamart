@@ -1,0 +1,41 @@
+HostReviewID,Rating,Comment,Reviewed_Date,HostID
+1,5,"Cosme is an amazing host! He made me feel at home and shared great local tips.","2023-07-10 15:30:00",1
+2,4,"Cosme is a friendly host, and his place is cozy and well-maintained.","2023-08-15 09:45:00",1
+3,5,"Cosme exceeded my expectations as a host. His hospitality is top-notch!","2023-09-10 12:15:00",1
+4,4,"Curry is a welcoming host, and his place is in a convenient location.","2023-09-28 18:20:00",2
+5,5,"I had a fantastic experience at Curry's place. He made me feel right at home.","2023-10-02 10:10:00",2
+6,5,"Annalise is a great host who pays attention to every detail to ensure a pleasant stay.","2023-06-02 14:45:00",3
+7,4,"The place of Annalise is lovely, and she is very accommodating. I enjoyed my stay.","2023-06-12 11:30:00",3
+8,5,"The hospitality of Cointon is unmatched, and his home is clean and comfortable.","2023-09-14 15:25:00",4
+9,5,"I had a wonderful experience at the place of Cointon. Highly recommended!","2023-09-20 17:05:00",4
+10,4,"Berenice is a friendly and accommodating host. Her home is cozy and inviting.","2023-09-20 19:30:00",5
+11,4,"Berenice provided a warm and pleasant environment. I enjoyed my stay at her place.","2023-09-23 08:40:00",5
+12,5,"The place of Alasdair is stylish and comfortable. He was a gracious host!","2023-06-30 16:55:00",6
+13,4,"I appreciated Alasdair friendliness and the well-maintained space.","2023-07-05 09:25:00",6
+14,5,"Camala is a great host who made me feel right at home. Her place is chic and cozy.","2023-04-25 12:30:00",7
+15,5,"I had a wonderful stay at Camala accomodation. She is a fantastic host!","2023-05-01 08:15:00",7
+16,4,"Stephana provided a comfortable and relaxing stay. Her place is clean and inviting.","2023-08-20 11:20:00",8
+17,5,"I had a fantastic experience at the place of Stephana. She is a warm and welcoming host.","2023-08-25 10:15:00",8
+18,4,"Evonne is a welcoming and friendly host. Her home is cozy and well-kept.","2023-07-15 14:40:00",9
+19,5,"I enjoyed my stay at the place of Evonne. She went above and beyond to make me comfortable.","2023-07-20 09:50:00",9
+20,5,"Benedikta accomodation is clean and inviting. She is a gracious host who made my stay enjoyable.","2023-09-15 15:30:00",10
+21,4,"I had a pleasant experience at this place . Her hospitality is commendable.","2023-09-20 11:10:00",10
+22,5,"Lily is an exceptional host! Her place is stylish and comfortable, and I had a fantastic stay.","2023-10-01 10:45:00",11
+23,5,"I couldnot have asked for a better host than Lily. She made my stay memorable.","2023-10-05 17:25:00",11
+24,4,"This place is lovely, and she is a welcoming host. I had a comfortable stay.","2023-04-01 16:45:00",12
+25,4,"I enjoyed my stay at Scarlett is place. She provided everything I needed for a pleasant visit.","2023-04-05 13:20:00",12
+26,5,"Isaac is an attentive and accommodating host. His home is cozy and inviting.","2023-08-05 10:30:00",13
+27,4,"I had a great experience at this place. He made sure my stay was enjoyable.","2023-08-10 08:15:00",13
+28,5,"Oliver is a fantastic host! His place is comfortable, and I had a wonderful stay.","2023-07-12 14:45:00",14
+29,4,"I enjoyed my stay at the place Oliver. His hospitality is top-notch.","2023-07-17 10:10:00",14
+30,5,"Amelia is a welcoming host, and her place is cozy and inviting. I had a pleasant stay.","2023-05-15 11:20:00",15
+31,5,"I had a fantastic experience at Amelia accomodation. She made me feel right at home.","2023-05-20 12:45:00",15
+32,4,"Eli provided a comfortable and relaxing stay. His place is clean and well-maintained.","2023-09-15 14:30:00",16
+33,5,"I couldnot have asked for a better host than Eli. He made my stay memorable.","2023-09-20 11:10:00",16
+34,4,"The place of Zoey is lovely, and she is a lovely host. I had a comfortable stay.","2023-09-01 16:15:00",17
+35,5,"I had a great experience at this place. She made sure my stay was enjoyable.","2023-09-05 17:50:00",17
+36,5,"Aiden is an amazing host! His place is comfortable, and I had a fantastic stay.","2023-04-15 14:30:00",18
+37,4,"I had a pleasant experience at the rent place. This host friendliness is commendable.","2023-04-20 11:10:00",18
+38,5,"Jack accomodation is clean and inviting. He is a gracious host who made my stay enjoyable.","2023-05-15 12:30:00",19
+39,5,"I had a wonderful experience at the place of Jack. He made me feel right at home.","2023-05-20 08:40:00",19
+40,4,"Ava provided a comfortable and relaxing stay. Her place is cozy and well-maintained.","2023-09-10 16:30:00",20

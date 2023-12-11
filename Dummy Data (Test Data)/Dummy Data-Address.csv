@@ -1,0 +1,22 @@
+AddressID,Country_Name,Country_Code,City,Postal_Code,Street,Building_Number,PropertyID
+1,"United States",US,Albuquerque,87105,"Homewood Street",10,1
+2,"United States",US,Philadelphia,19191,"Ryan Crossing",2E,2
+3,Canada,CA,Sainte-Adèle,J8B,"Nova Pass",55,3
+4,"United States",US,Memphis,38126,"87 Grover Road",151,4
+5,"United States",US,Seattle,98148,"21 Little Fleur Way",781,5
+6,Canada,CA,"La Ronge",J9P,"Dottie Road",3A,6
+7,Canada,CA,Antigonish,B2G,"1 Monterey Alley",55R,7
+8,"United Kingdom",GB,Seaton,LE15,"76 Springview Park",9B,8
+9,"United Kingdom",GB,Marston,ST20,"60 Memorial Park",32a,9
+10,Singapore,SG,Singapore,569933,"Clemons Drive",7H,10
+11,Australia,AU,"Strawberry Hills",1424,"Monica Crossing",63F,11
+12,"United States",US,Dayton,45440,"Green Ridge Road",37,12
+13,"United States",US,Decatur,30089,"Superior Alley",363,13
+14,"United States",US,Waco,76711,"48 Elgar Plaza",28B,14
+15,"United States",US,Hyattsville,20784,"Menomonie Circle",62C,15
+16,"United States",US,Dulles,20189,"4 Lakewood Drive",74M,16
+17,"United States",US,Reading,19610,"Iowa Drive",92Z,17
+18,"United States",US,Brooklyn,11215,"Vernon Crossing",147,18
+19,"United States",US,Washington,20220,"Memorial Way",NULL,19
+20,"United States",US,Greensboro,27409,"1 Ryan Avenue",773,20
+21,Netherlands,NL,Hoorn,1624,"Harbort Junction",6D,21

@@ -1,0 +1,24 @@
+PropertyReviewID,Rating,Comment,Reviewed_Date,GuestID,PropertyID
+1,5,"The apartment was lovely and very clean. Great location!","2023-10-09 08:00:00",5,1
+2,5,"Luxurious loft with a stunning view. Highly recommended!","2023-10-31 09:00:00",1,2
+3,5,"Amazing beach house with a private pool. Great for families.","2023-09-30 15:20:00",8,3
+4,4,"Charming countryside cottage. Peaceful and relaxing.","2023-10-07 04:00:00",2,4
+5,5,"Ideal for nature lovers. Would visit again.","2023-10-25 11:45:00",6,4
+6,4,"Great studio apartment in the city. Good value.","2023-10-14 23:30:00",10,5
+7,5,"Rustic cabin in the mountains. Perfect for a retreat.","2023-10-10 04:15:00",19,6
+8,4,"Stunning city panorama. Comfortable and luxurious.","2023-10-20 13:20:00",15,7
+9,5,"Historic townhouse with character. Great location!","2023-10-08 10:25:00",4,8
+10,4,"Enjoyed the charm and history of the townhouse.","2023-10-07 12:25:00",8,8
+11,5,"Elegant villa with a beautiful pool and gardens.","2023-10-23 02:45:00",9,9
+12,5,"Cozy seaside bungalow with beach access. Lovely stay.","2023-10-22 17:50:00",10,10
+13,5,"Stylish condo in the city. Loved the views!","2023-10-02 12:00:00",16,11
+14,5,"Quaint historic cottage with a beautiful garden.","2023-10-20 05:30:00",7,12
+15,5,"Modern apartment with a great city view. Excellent stay.","2023-10-11 20:35:00",18,13
+16,5,"Sunny beachfront retreat. Great for beach lovers.","2023-10-31 15:00:00",13,14
+17,5,"Downtown loft with industrial flair. Unique and stylish.","2023-10-09 22:10:00",20,15
+18,5,"Cozy riverside cabin. Perfect for a romantic getaway.","2023-10-03 21:30:00",3,16
+19,5,"Luxurious city penthouse with top-of-the-line amenities.","2023-10-20 03:15:00",17,17
+20,5,"Artistic urban townhouse in a trendy neighborhood.","2023-10-27 14:20:00",11,18
+21,5,"Hillside villa with breathtaking hill views.","2023-10-11 11:50:00",12,19
+22,5,"Secluded forest cabin. A nature lover's dream.","2023-10-19 10:25:00",2,20
+23,4,"Convenient and modern. Great city experience.","2023-10-13 23:10:00",14,21

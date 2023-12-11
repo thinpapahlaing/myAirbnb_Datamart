@@ -1,0 +1,21 @@
+MessageID,Message_Text,Sent_time,Is_Read,Read_time,SenderID,ReceiverID
+1,"Hello, I have some questions about your property.","2023-09-20 08:15:00",1,"2023-09-20 08:20:00",10,1
+2,"Sure, feel free to ask anything!","2023-09-20 08:30:00",1,"2023-09-20 08:33:00",1,10
+3,"I want to book your property for the weekend.","2023-09-21 10:00:00",1,"2023-09-21 10:10:00",16,13
+4,"The property is available for the weekend.","2023-09-21 10:15:00",1,"2023-09-21 11:00:00",13,16
+5,"Great, I would like to proceed with the booking.","2023-09-21 12:00:00",1,"2023-09-21 13:00:00",16,13
+6,"Booking confirmed for the weekend!","2023-09-21 13:15:00",1,"2023-09-21 13:30:00",13,16
+7,"Did you receive my payment?","2023-09-22 15:30:00",1,"2023-09-22 15:35:00",4,5
+8,"Yes, your payment is received and confirmed.","2023-09-22 15:45:00",1,"2023-09-22 15:47:00",5,4
+9,"I have some special requests for my stay.","2023-09-22 18:00:00",1,"2023-09-22 18:09:00",8,13
+10,"Of course, please let me know your requests.","2023-09-22 18:15:00",1,"2023-09-22 18:30:00",13,8
+11,"I need to cancel my reservation due to an emergency.","2023-09-23 09:00:00",1,"2023-09-23 09:12:00",19,17
+12,"I am sorry to hear that. We will process your cancellation.","2023-09-23 09:15:00",1,"2023-09-23 09:16:00",17,19
+13,"I will arrive at 3 PM.","2023-09-24 13:30:00",0,NULL,2,1
+14,"Can you provide airport pickup?","2023-09-24 13:45:00",0,NULL,2,1
+15,"Is there a minimum stay requirement?","2023-09-25 16:30:00",0,NULL,7,17
+16,"How far is the property from the city center?","2023-09-25 16:45:00",0,NULL,10,1
+17,"Please send me directions to your place.","2023-09-26 19:00:00",0,NULL,7,17
+18,"Do you allow pets?","2023-09-26 19:15:00",0,NULL,10,1
+19,"Hello, how are you?","2023-09-27 14:00:00",0,NULL,11,5
+20,"Do you provide breakfast?","2023-09-27 14:15:00",0,NULL,11,5
